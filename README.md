@@ -38,8 +38,6 @@ Lifestyle: Sleep Duration, Financial Stress
 
 Mental Health Indicators: Depression, Suicidal Thoughts (Yes/No)
 
-⚠️ This dataset is intended for academic and analytical purposes only.
-
 📊 Visualizations Included
 KPI Cards (summary indicators)
 
