@@ -2,7 +2,8 @@
 
 🌐 About the Project
 
-The Student Mental Health Dashboard is a data-driven web application developed using Python, Dash, and Plotly Express. It helps analyze and visualize the mental health trends of students by exploring factors such as academic pressure, sleep duration, financial stress, and suicidal thoughts. With an interactive and responsive interface, this dashboard offers actionable insights for educators, researchers, and mental health advocates.
+In these days where academic pressure😖 is one of the rising concern among youngsters of India I thought of analyzing this trend and thus prepared a well data driven Student Mental Health Dashboard which is developed using Python, Dash, and Plotly Express. It helps to analyze and visualize the mental health trends of students by exploring factors such as academic pressure, sleep duration, financial stress, and suicidal thoughts. With an interactive and responsive interface, this dashboard offers actionable insights for educators, researchers, and mental health advocates to govern over the rising concern over this age young minds🫱🏻‍🫲🏼our combined efforts can make a huge impact over the socio and economic development of our country.
+
 
 ✅ Key Features
 
