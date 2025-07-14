@@ -1,10 +1,11 @@
-🧠 Student Mental Health Dashboard
+🧠 Students Mental Health Dashboard
 
 🌐 About the Project
+
 The Student Mental Health Dashboard is a data-driven web application developed using Python, Dash, and Plotly Express. It helps analyze and visualize the mental health trends of students by exploring factors such as academic pressure, sleep duration, financial stress, and suicidal thoughts. With an interactive and responsive interface, this dashboard offers actionable insights for educators, researchers, and mental health advocates.
 
 ✅ Key Features
-📊 Real-time KPIs: Total responses, depression rate, sucidal thoughts, and work hours
+📊 Real-time KPIs: Total responses, depression rate, sucidal thoughts, and work hours per day
 
 🎓 Degree vs Depression: Bar chart filtered by gender and city
 
